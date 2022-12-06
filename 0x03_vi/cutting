@@ -1,0 +1,2 @@
+dd delete entire current line
+yy copy(yank, cut) the current line into the buffer
