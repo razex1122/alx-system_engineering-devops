@@ -5,3 +5,4 @@ Task 3 Displaying the content of two files in one file
 task 4 displaying last 10 lines of a files
 Task 5 displaying first lines of a files
 task 6 displaying a particular linefrom a file
+task 7Script that create a file and writes a content in it
